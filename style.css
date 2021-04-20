@@ -1,15 +1,15 @@
-html,
-body {
+html{
   margin: 0;
   padding: 0;
 }
-
-canvas {
-  display: block;
-  border: 5px solid lightgreen;
+body {
+  margin: 100px auto 0 auto;
+  width: 80%;
+  text-align: center;
+  font-family: "Courier", monoface;
 }
-
-.randomizerButton {
-  padding: 10px;
-  background-color: #88b6eb;
+canvas {
+  margin: 0 auto 0 auto;
+  display: block;
+  border: 5px solid blue;
 }
